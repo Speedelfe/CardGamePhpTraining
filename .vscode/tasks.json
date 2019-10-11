@@ -1,0 +1,27 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "start-server",
+            "command": "./start_server.sh",
+            "type": "shell",
+            "args": [],
+            "group": "none",
+            "presentation": {
+                "reveal": "silent"
+            }
+        },
+        {
+            "label": "stop-server",
+            "command": "./stop_server.sh",
+            "type": "shell",
+            "args": [],
+            "group": "none",
+            "presentation": {
+                "reveal": "silent"
+            }
+        }
+    ]
+}
