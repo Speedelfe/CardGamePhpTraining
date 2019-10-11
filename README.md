@@ -17,7 +17,13 @@
 
 -   Docker
 -   Docker-compose
+-   npm
 -   maybe PHP for Intellisense
+
+### Used Tools
+
+We write the code in "Visual Studio Code" (<https://code.visualstudio.com/>).  
+Helpful for frontend development with vue.js is one of these extensions: <https://github.com/vuejs/vue-devtools#vue-devtools>
 
 ### Scripts
 
@@ -29,10 +35,6 @@ Starts the webserver. You can access it on port 8081.
 #### `stop-server`
 
 Stop the webserver.
-
-### Used Tools
-
-I write the code in "Visual Studio Code" (<https://code.visualstudio.com/>).
 
 ## Acknowledgements
 
