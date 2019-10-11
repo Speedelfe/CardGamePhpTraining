@@ -15,11 +15,20 @@
 
 ### Dependencies
 
-To develop in an efficient way, you need:
-
 -   Docker
 -   Docker-compose
 -   maybe PHP for Intellisense
+
+### Scripts
+
+#### `start-server`
+
+Starts the webserver. You can access it on port 8081.  
+<http://localhost:8081>
+
+#### `stop-server`
+
+Stop the webserver.
 
 ### Used Tools
 
@@ -27,6 +36,6 @@ I write the code in "Visual Studio Code" (<https://code.visualstudio.com/>).
 
 ## Acknowledgements
 
-Thanks to:
+Big THANKS to:
 
 -   <https://github.com/albertcolom/docker-lemp> which we used for basic docker setup

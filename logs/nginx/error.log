@@ -1,4 +1,0 @@
-2019/10/11 15:08:33 [error] 6#6: *2 open() "/code/index.php" failed (2: No such file or directory), client: 172.17.0.1, server: localhost, request: "GET /index.php HTTP/1.1", host: "localhost:8080"
-2019/10/11 15:08:36 [error] 6#6: *2 open() "/code/index.html" failed (2: No such file or directory), client: 172.17.0.1, server: localhost, request: "GET /index.html HTTP/1.1", host: "localhost:8080"
-2019/10/11 15:10:28 [error] 7#7: *1 open() "/var/www/html/favicon.ico" failed (2: No such file or directory), client: 172.17.0.1, server: web.dev, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8088"
-2019/10/11 15:14:23 [error] 7#7: *1 open() "/var/www/html/favicon.ico" failed (2: No such file or directory), client: 172.17.0.1, server: web.dev, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8081"
