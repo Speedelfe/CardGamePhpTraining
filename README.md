@@ -24,3 +24,9 @@ To develop in an efficient way, you need:
 ### Used Tools
 
 I write the code in "Visual Studio Code" (<https://code.visualstudio.com/>).
+
+## Acknowledgements
+
+Thanks to:
+
+-   <https://github.com/albertcolom/docker-lemp> which we used for basic docker setup
