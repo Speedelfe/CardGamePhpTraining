@@ -6,6 +6,9 @@
         {
             "label": "start-server",
             "command": "./start_server.sh",
+            "windows": {
+                "command": "./start_server.cmd"
+            },
             "type": "shell",
             "args": [],
             "group": "none",
@@ -16,6 +19,9 @@
         {
             "label": "stop-server",
             "command": "./stop_server.sh",
+            "windows": {
+                "command": "./stop_server.cmd"
+            },
             "type": "shell",
             "args": [],
             "group": "none",

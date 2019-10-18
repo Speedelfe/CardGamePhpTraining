@@ -20,6 +20,10 @@
 -   npm
 -   maybe PHP for Intellisense
 
+### Windows
+
+On Windows you have to share the folder with this project inside of docker, otherwise docker can not start the containers.
+
 ### Used Tools
 
 We write the code in "Visual Studio Code" (<https://code.visualstudio.com/>).  
