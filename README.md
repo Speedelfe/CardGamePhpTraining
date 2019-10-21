@@ -24,6 +24,11 @@
 
 On Windows you have to share the folder with this project inside of docker, otherwise docker can not start the containers.
 
+### Linux
+
+Make sure you can run docker commands without sudo:  
+<https://askubuntu.com/questions/477551/how-can-i-use-docker-without-sudo>
+
 ### Used Tools
 
 We write the code in "Visual Studio Code" (<https://code.visualstudio.com/>).  

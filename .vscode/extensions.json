@@ -4,6 +4,7 @@
     // List of extensions which should be recommended for users of this workspace.
     "recommendations": [
         // Language
+        "bmewburn.vscode-intelephense-client",
         "ms-azuretools.vscode-docker",
         // Coding style
         "editorconfig.editorconfig",
