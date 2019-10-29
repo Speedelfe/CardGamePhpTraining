@@ -13,8 +13,9 @@
             "args": [],
             "group": "none",
             "presentation": {
-                "reveal": "silent"
-            }
+                "reveal": "always"
+            },
+            "problemMatcher": []
         },
         {
             "label": "Stop Server",
@@ -26,8 +27,9 @@
             "args": [],
             "group": "none",
             "presentation": {
-                "reveal": "silent"
-            }
+                "reveal": "always"
+            },
+            "problemMatcher": []
         },
         {
             "label": "Run PhpUnit",
@@ -43,7 +45,8 @@
             },
             "presentation": {
                 "reveal": "always"
-            }
+            },
+            "problemMatcher": []
         },
         {
             "label": "Composer Install",
@@ -55,8 +58,9 @@
             "args": [],
             "group": "none",
             "presentation": {
-                "reveal": "silent"
-            }
+                "reveal": "always"
+            },
+            "problemMatcher": []
         },
         {
             "label": "Composer Update",
@@ -68,8 +72,9 @@
             "args": [],
             "group": "none",
             "presentation": {
-                "reveal": "silent"
-            }
+                "reveal": "always"
+            },
+            "problemMatcher": []
         }
     ]
 }

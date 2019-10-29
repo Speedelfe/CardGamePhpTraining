@@ -1,5 +1,8 @@
 {
+    "require": {
+        "nikic/fast-route": "*"
+    },
     "require-dev": {
-        "phpunit/phpunit": "8.4"
+        "phpunit/phpunit": "*"
     }
 }
