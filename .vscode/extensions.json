@@ -5,7 +5,6 @@
     "recommendations": [
         // Language
         "bmewburn.vscode-intelephense-client",
-        "ms-azuretools.vscode-docker",
         // Coding style
         "editorconfig.editorconfig",
         // Highlighting
