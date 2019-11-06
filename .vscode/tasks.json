@@ -7,7 +7,7 @@
             "label": "Start Server",
             "command": "./start_server.sh",
             "windows": {
-                "command": "./start_server.cmd"
+                "command": "start_server.cmd"
             },
             "type": "shell",
             "args": [],
@@ -21,7 +21,7 @@
             "label": "Stop Server",
             "command": "./stop_server.sh",
             "windows": {
-                "command": "./stop_server.cmd"
+                "command": "stop_server.cmd"
             },
             "type": "shell",
             "args": [],
@@ -35,7 +35,7 @@
             "label": "Run PhpUnit",
             "command": "./run_phpunit.sh",
             "windows": {
-                "command": "./run_phpunit.cmd"
+                "command": "run_phpunit.cmd",
             },
             "type": "shell",
             "args": [],
@@ -52,7 +52,7 @@
             "label": "Composer Install",
             "command": "./composer_install.sh",
             "windows": {
-                "command": "./composer_install.cmd"
+                "command": "composer_install.cmd"
             },
             "type": "shell",
             "args": [],
@@ -66,7 +66,7 @@
             "label": "Composer Update",
             "command": "./composer_update.sh",
             "windows": {
-                "command": "./composer_update.cmd"
+                "command": "composer_update.cmd"
             },
             "type": "shell",
             "args": [],
